@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
                 height: 20,
               ),
               const Text(
-                "Reading is a fundamental skill that opens the door to knowledge, imagination, and endless adventures through words. English paragraphs for reading are an essential part of this journey, helping you enhance your reading skills, comprehension, and vocabulary. In this blog, we’ll explore what an English paragraph for reading is, provide tips on how to read and understand paragraphs effectively, and offer five sample paragraphs for reading practice.",
+                "the Reading is a fundamental skill that opens the door to knowledge, imagination, and endless adventures through words. English paragraphs for reading are an essential part of this journey, helping you enhance your reading skills, comprehension, and vocabulary. In this blog, we’ll explore what an English paragraph for reading is, provide tips on how to read and understand paragraphs effectively, and offer five sample paragraphs for reading practice.",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                     fontSize: 15,
